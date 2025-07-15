@@ -13,9 +13,7 @@ Amend your code from Exercise 1 so that it meets the following requirements:
 • The user is allowed 3 tries to enter a username that has not already been used, before the program ends
 • The user is allowed 3 tries to enter a password that is at least 12 characters long before the program ends.
 • Add a text file with usernames and passwords.
-This file is read in at the beginning of the program and
-a new username and password is appended to the end of the text file
-when it has been validated."""
+    - This file is to be read in at the beginning of the program and a new username and password is appended to the end of the text file when it has been validated."""
 
 ## getting already exsiting usernames and creating a list from them
 usernames_file = open("usernames.txt", "r+")
