@@ -12,7 +12,7 @@ Amend your code from Exercise 1 so that it meets the following requirements:
 • When checking the username, the program should treat upper case letters and lower case letters as being the same. eg User1 is the same as user1
 • The user is allowed 3 tries to enter a username that has not already been used, before the program ends
 • The user is allowed 3 tries to enter a password that is at least 12 characters long before the program ends.
-• Add a text file with usernames and passwords.
+• Add the username and password to the text file with usernames and passwords.
     - This file is to be read in at the beginning of the program and a new username and password is appended to the end of the text file when it has been validated."""
 
 ## getting already exsiting usernames and creating a list from them
